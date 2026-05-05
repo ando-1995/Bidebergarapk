@@ -1,0 +1,25 @@
+
+{
+  "name": "bidebergaraPK",
+  "short_name": "bidebergaraPK",
+  "description": "Localización y calibración de precisión para operarios (AP-1 / AP-636).",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0B1221",
+  "theme_color": "#0B1221",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://www.google.com/s2/favicons?domain=bidelan.eus&sz=128",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://www.google.com/s2/favicons?domain=bidelan.eus&sz=128",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "bidebergaraPK",
+  "description": "Herramienta de precisión para trabajadores de vialidad (AP-1 y AP-636) que calcula el Punto Kilométrico (PK) exacto basado en GPS.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
